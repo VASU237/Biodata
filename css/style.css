@@ -1,0 +1,127 @@
+a{
+    color: #11999E;
+    margin: 10px 20px 10px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a:hover{
+    color: #eaf6f6;
+}
+body{
+    margin: 0;
+    text-align: center;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    font-family: 'Montserrat', sans-serif;
+     /* */
+     color: #40514E;
+}
+.copyright{
+    color: #eaf6f6;
+    padding: 20px 0;
+    size: 0.75rem;
+}
+h1{
+    margin: 40px auto 0 ;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2.5rem;
+    /* font-size: 40px; */
+    color: #66BFBF;
+    font-weight: normal;
+    margin-bottom: 2 0px;
+}
+h3{
+    color: #11999E;
+}
+
+/* .middle-container{
+}
+.bottom-container{
+} */
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.gamingimg{
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+}
+hr{
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto 100px;
+}
+
+p{
+    line-height: 2;
+}
+.Pro{
+    text-decoration: underline;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 30px;
+}
+.top-container{
+    background-color: rgb(221, 244, 247);
+    position: relative;
+    padding-top: 100px;
+    
+}
+.websiteimg{
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+
+
+.btn {
+    background: #335266;
+    background-image: -webkit-linear-gradient(top, #335266, #50a8de);
+    background-image: -moz-linear-gradient(top, #335266, #50a8de);
+    background-image: -ms-linear-gradient(top, #335266, #50a8de);
+    background-image: -o-linear-gradient(top, #335266, #50a8de);
+    background-image: linear-gradient(to bottom, #335266, #50a8de);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #1298eb;
+    background-image: -webkit-linear-gradient(top, #1298eb, #76b0e3);
+    background-image: -moz-linear-gradient(top, #1298eb, #76b0e3);
+    background-image: -ms-linear-gradient(top, #1298eb, #76b0e3);
+    background-image: -o-linear-gradient(top, #1298eb, #76b0e3);
+    background-image: linear-gradient(to bottom, #1298eb, #76b0e3);
+    text-decoration: none;
+  }
+
+/* .contact-me{
+    margin: 25px auto 25px;
+} */
+.middle-container{
+    margin: 100px 0;
+}
+.bottom-container{
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+}
